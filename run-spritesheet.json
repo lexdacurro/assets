@@ -175,7 +175,7 @@
 		"image": "run-spritesheet.png",
 		"format": "RGBA8888",
 		"size": {
-			"w": 1040,
+			"w": 780,
 			"h": 130
 		},
 		"scale": "1"
