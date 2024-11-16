@@ -1,0 +1,79 @@
+{
+    "frames": {
+      "run_0": {
+        "frame": { "x": 0, "y": 0, "w": 48, "h": 48 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 48, "h": 48 },
+        "sourceSize": { "w": 48, "h": 48 }
+      },
+      "run_1": {
+        "frame": { "x": 48, "y": 0, "w": 48, "h": 48 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 48, "h": 48 },
+        "sourceSize": { "w": 48, "h": 48 }
+      },
+      "run_2": {
+        "frame": { "x": 96, "y": 0, "w": 48, "h": 48 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 48, "h": 48 },
+        "sourceSize": { "w": 48, "h": 48 }
+      },
+      "run_3": {
+        "frame": { "x": 144, "y": 0, "w": 48, "h": 48 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 48, "h": 48 },
+        "sourceSize": { "w": 48, "h": 48 }
+      },
+      "run_4": {
+        "frame": { "x": 192, "y": 0, "w": 48, "h": 48 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 48, "h": 48 },
+        "sourceSize": { "w": 48, "h": 48 }
+      },
+      "run_5": {
+        "frame": { "x": 240, "y": 0, "w": 48, "h": 48 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 48, "h": 48 },
+        "sourceSize": { "w": 48, "h": 48 }
+      },
+      "run_6": {
+        "frame": { "x": 288, "y": 0, "w": 48, "h": 48 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 48, "h": 48 },
+        "sourceSize": { "w": 48, "h": 48 }
+      },
+      "run_7": {
+        "frame": { "x": 336, "y": 0, "w": 48, "h": 48 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 48, "h": 48 },
+        "sourceSize": { "w": 48, "h": 48 }
+      }
+    },
+    "meta": {
+      "app": "spritesheet-generator",
+      "version": "1.0",
+      "image": "run-spritesheet.png",
+      "format": "RGBA8888",
+      "size": { "w": 384, "h": 48 },
+      "scale": "1",
+      "frameTags": [
+        {
+          "name": "run",
+          "from": 0,
+          "to": 7,
+          "direction": "forward"
+        }
+      ],
+      "animations": {
+        "run": ["run_0", "run_1", "run_2", "run_3", "run_4", "run_5", "run_6", "run_7"]
+      }
+    }
+  }
